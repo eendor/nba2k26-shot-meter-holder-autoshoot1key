@@ -1,8 +1,18 @@
 # NBA 2K26 Shot Meter Holder & Auto-Shoot Suite 🏀⚡
 
-An advanced, high-precision automation, computer vision, and closed-loop tuning suite designed for **NBA 2K26** shot timing and rhythm-stick execution on Windows. 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
 
-This repository provides both **hardware-level timing interception** (Keyboard & Controller via ViGEmBus) and **computer vision phase-locked meter detection** (OpenCV, Windows OCR, YOLOv4).
+**NBA 2K26 Auto Green & Perfect Release Script** — An advanced, high-precision automation, computer vision, and closed-loop tuning suite designed for **NBA 2K26** shot timing and rhythm-stick execution on Windows PC. Whether you're looking for an **NBA 2K26 auto shoot macro**, a **rhythm shooting perfect timing script**, or a **computer vision shot meter tracker**, this suite provides sub-millisecond precision.
+
+This repository provides both **hardware-level timing interception** (Keyboard & Controller via ViGEmBus) and **computer vision phase-locked meter detection** (OpenCV, Windows OCR, YOLOv4) to guarantee perfect releases.
+
+## ✨ Key Features for NBA 2K26 Auto Shooting
+* **NBA 2K26 Auto Green:** Consistently time perfect shots using phase-locked computer vision.
+* **Rhythm Shooting Macro:** Pro Stick down-and-up flick emulation for NBA 2K26's rhythm shooting mechanics.
+* **Shot Meter Tracker:** OpenCV and YOLOv4 based visual detection for the Arrow 2 (Purple) shot meter.
+* **Closed-Loop Tuning:** Real-time feedback adjustment reading "Slightly Early", "Slightly Late", or "Great Tempo" banners using Windows OCR.
+* **PC Controller & Keyboard Support:** Virtual Xbox 360 controller injection via vgamepad and ViGEmBus.
 
 ---
 
