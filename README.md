@@ -14,6 +14,9 @@ This repository provides both **hardware-level timing interception** (Keyboard &
 * **Closed-Loop Tuning:** Real-time feedback adjustment reading "Slightly Early", "Slightly Late", or "Great Tempo" banners using Windows OCR.
 * **PC Controller & Keyboard Support:** Virtual Xbox 360 controller injection via vgamepad and ViGEmBus.
 
+## 🌐 Community & Discussion
+Join the discussion, share configurations, and get updates on our official [UnknownCheats thread: NBA 2K26 Shot Meter Holder & Auto-Shoot Suite](https://www.unknowncheats.me/forum/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html).
+
 ---
 
 ## 📋 Table of Contents
